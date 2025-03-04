@@ -1,5 +1,6 @@
 (intro)=
 # Welcome to the Template Book
+If I add text here do I actually see it somewhere?
 
 _This is the first page the student will see when opening the url._
 
